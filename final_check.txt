@@ -1,2 +1,3 @@
 final check 1
 final check 2
+final check 3
